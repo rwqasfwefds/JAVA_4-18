@@ -1,0 +1,11 @@
+package excercise;
+
+public class PrintTest {
+
+	public static void main(String[] args) {
+		LaserPrinter p1 = LaserPrinter();
+		ColorPrinter c1 = ColorPrinter();
+		
+	}
+
+}

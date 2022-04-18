@@ -1,0 +1,5 @@
+package excercise2;
+
+public class Bus {
+//	멤버 변수 : 버스 번호, 승객 수, 버스 수입
+}

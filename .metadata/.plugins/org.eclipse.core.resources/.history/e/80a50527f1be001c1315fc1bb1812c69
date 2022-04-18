@@ -1,0 +1,12 @@
+package excercise2;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Student james = new Student();
+		Student tomas = new Student();
+		
+		Bus bus100 = new Bus(100); // 100번 버스를 팁니다.
+	}
+
+}

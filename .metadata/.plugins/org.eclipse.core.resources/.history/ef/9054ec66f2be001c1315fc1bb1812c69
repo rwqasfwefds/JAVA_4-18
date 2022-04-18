@@ -1,0 +1,9 @@
+package excercise2;
+
+public class Subway {
+	public void take(int money) {
+//		¹ö½º µ· Áõ°¡
+//		½Â°´ ¼ö Áõ°¡
+	}
+	
+}

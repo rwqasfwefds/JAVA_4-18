@@ -1,0 +1,10 @@
+package ex2;
+
+public class Genesis {
+//	미러 맴버 변수를 정의
+	Mirror m;
+	
+	public Genesis(Mirror m) {
+		this.m = m;
+	}
+}

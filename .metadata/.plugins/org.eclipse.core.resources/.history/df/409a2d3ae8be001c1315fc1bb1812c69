@@ -1,0 +1,7 @@
+package excercise;
+
+public class Report {
+	public void testAllPrinter(Printer p) {
+		p.print();
+	}
+}

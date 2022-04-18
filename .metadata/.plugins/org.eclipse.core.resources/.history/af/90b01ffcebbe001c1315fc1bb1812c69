@@ -1,0 +1,9 @@
+package ex2;
+
+public class MirrorTest {
+
+	public static void main(String[] args) {
+		Genesis genesis = new Genesis();
+	}
+
+}

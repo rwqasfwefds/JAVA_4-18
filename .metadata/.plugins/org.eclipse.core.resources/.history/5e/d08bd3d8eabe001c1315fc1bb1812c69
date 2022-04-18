@@ -1,0 +1,15 @@
+package ex2;
+
+public class DongSungMirror implements Mirror {
+
+	@Override
+	public void autoClose() {
+
+	}
+
+	@Override
+	public void control() {
+
+	}
+
+}

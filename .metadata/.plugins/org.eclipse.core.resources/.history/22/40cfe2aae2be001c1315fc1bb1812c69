@@ -1,0 +1,5 @@
+package ex9;
+//	상속을 받아야 다형성을 쓸 수 있으니깐 상속받음
+public class StockGraph extends Graph{
+
+}

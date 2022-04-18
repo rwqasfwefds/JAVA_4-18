@@ -1,0 +1,13 @@
+package excercise;
+
+public class PrintTest {
+
+	public static void main(String[] args) {
+		LaserPrinter p1 = LaserPrinter();
+		ColorPrinter c1 = ColorPrinter();
+		
+		testAllPrinter(p1); // 출력 : "레이저로 선명하게 출력합니다."
+		testAllPrinter(c1); // 출력 : "컬러로 출력합니다."
+	}
+
+}

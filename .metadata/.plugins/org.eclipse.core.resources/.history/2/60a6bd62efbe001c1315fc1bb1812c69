@@ -1,0 +1,7 @@
+package excercise2;
+
+public class Student {
+//	맴버 변수 : 학생 이름, 학년, 학생이 가지고 있는 돈
+	
+//	생성자 : 이름과 돈을 초기화
+}
